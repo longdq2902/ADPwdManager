@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|f:\\2.cael\\2025\\ad-mngt\\admgt\\adpasswordmanager\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|f:\\2.cael\\2025\\ad-mngt\\admgt\\adpasswordmanager\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|f:\\2.cael\\2025\\ad-mngt\\admgt\\adpasswordmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|f:\\2.cael\\2025\\ad-mngt\\admgt\\adpasswordmanager\\services\\admanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|solutionrelative:services\\admanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|f:\\2.cael\\2025\\ad-mngt\\admgt\\adpasswordmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|f:\\2.cael\\2025\\ad-mngt\\admgt\\adpasswordmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|f:\\2.cael\\2025\\ad-mngt\\admgt\\adpasswordmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|f:\\2.cael\\2025\\ad-mngt\\admgt\\adpasswordmanager\\services\\adauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|solutionrelative:services\\adauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|f:\\2.cael\\2025\\ad-mngt\\admgt\\adpasswordmanager\\models\\configuration\\adminmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AED2A8-3545-47A7-9704-6FF378A7D35B}|ADPasswordManager.csproj|solutionrelative:models\\configuration\\adminmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T08:52:22.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-13T08:52:18.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T08:50:34.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T15:21:35.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ADManagementService.cs",
+              "DocumentMoniker": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\Services\\ADManagementService.cs",
+              "RelativeDocumentMoniker": "Services\\ADManagementService.cs",
+              "ToolTip": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\Services\\ADManagementService.cs",
+              "RelativeToolTip": "Services\\ADManagementService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAcwLgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T15:30:52.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-12T23:57:07.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ADAuthenticationService.cs",
+              "DocumentMoniker": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\Services\\ADAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Services\\ADAuthenticationService.cs",
+              "ToolTip": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\Services\\ADAuthenticationService.cs",
+              "RelativeToolTip": "Services\\ADAuthenticationService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T23:59:47.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAewEYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T15:31:10.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminMapping.cs",
+              "DocumentMoniker": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\Models\\Configuration\\AdminMapping.cs",
+              "RelativeDocumentMoniker": "Models\\Configuration\\AdminMapping.cs",
+              "ToolTip": "F:\\2.Cael\\2025\\AD-mngt\\AdMgt\\ADPasswordManager\\Models\\Configuration\\AdminMapping.cs",
+              "RelativeToolTip": "Models\\Configuration\\AdminMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T15:30:23.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
